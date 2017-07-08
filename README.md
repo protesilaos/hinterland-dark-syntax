@@ -6,13 +6,13 @@ A high contrast theme that draws inspiration from mountain ranges and rural regi
 
 ## Screenshots
 
-![hinterland dark screenshot html](https://raw.githubusercontent.com/protesilaos/prot16/master/hinterland/img/hinterland-dark-html.png)
+![hinterland dark screenshot html](https://raw.githubusercontent.com/protesilaos/prot16/master/hinterland/img/hinterland_dark_html.png)
 
-![hinterland dark screenshot scss](https://raw.githubusercontent.com/protesilaos/prot16/master/hinterland/img/hinterland-dark-scss.png)
+![hinterland dark screenshot scss](https://raw.githubusercontent.com/protesilaos/prot16/master/hinterland/img/hinterland_dark_scss.png)
 
-![hinterland dark screenshot js](https://raw.githubusercontent.com/protesilaos/prot16/master/hinterland/img/hinterland-dark-js.png)
+![hinterland dark screenshot js](https://raw.githubusercontent.com/protesilaos/prot16/master/hinterland/img/hinterland_dark_js.png)
 
-![hinterland dark screenshot md](https://raw.githubusercontent.com/protesilaos/prot16/master/hinterland/img/hinterland-dark-md.png)
+![hinterland dark screenshot md](https://raw.githubusercontent.com/protesilaos/prot16/master/hinterland/img/hinterland_dark_md.png)
 
 ## Download
 
