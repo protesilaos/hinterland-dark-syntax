@@ -11,7 +11,7 @@
     "dark"
   ],
   "repository": "https://github.com/protesilaos/hinterland-dark-syntax",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "engines": {
     "atom": ">=1.0.0"
   }
